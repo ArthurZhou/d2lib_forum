@@ -1,10 +1,10 @@
 import React from 'react';
+import './extraUI.css'
+import PageRender from "./PageRender";
 
 function App() {
     return (
-        <article>
-            <h1></h1>
-        </article>
+        <PageRender/>
     )
 }
 
